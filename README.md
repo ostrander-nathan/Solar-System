@@ -1,16 +1,41 @@
 # Solar-System
 
 
-## Description
-Display usage of map, filter, reduce method 
+### Description: 
+* Introduction into Javascript
 
-## How to run
-In your terminal run:
+
+### Final Result:
+> Usage of Javascript functions
+
+### Take-home Lesson:
+
+> Display usage of map, filter, reduce method 
+
+
+### How to run (Node must be installed on your machine):
 ```
-http-server -p 9999
+git clone https://github.com/ostrander-nathan/iife-solarsystem
+npm install http-server -g
+http-server -p 8080
 ```
-then navigate to (http://localhost:9999) in your browser.
 
 
-## Contributers
--[Nathan Ostrander](https://github.com/ostrander-nathan)
+### Contributors:
+[Nathan Ostrander](https://github.com/ostrander-nathan)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
